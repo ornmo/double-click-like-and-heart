@@ -1,0 +1,7 @@
+This project is made of a background image when you double click on it notes how many times its been liked. The double click will display a heart image as the counter increases
+
+It uses Flexbox, CSS transitions and JavaScript
+
+This could be converted to be used in (for example) the following ways
+
+- Likes on an image
